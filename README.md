@@ -150,11 +150,8 @@ ax.axis("off")
      np.float64(-22.0230764),
      np.float64(-21.4966296))
 
-
-
-
-    
-![png](poligono_jf.png)
+   
+![](poligono_jf.png){: width="50%"}
     
 
 

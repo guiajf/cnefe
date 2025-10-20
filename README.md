@@ -460,7 +460,7 @@ print(f"\nTotal de estabelecimentos mapeados: {total_estabelecimentos}")
 
 **Considerações finais**
 
-No mapa interativo, selecione uma categoria e ajuste o zoom para visualizar a quantidade de estabelecimentos por tipo. Os dados tabulares confirmam que os estabelecimentos religiosos representam mais de 50% da amostra.
+No mapa interativo (categorias.html), selecione uma categoria e ajuste o zoom para visualizar a quantidade de estabelecimentos por tipo. Os dados tabulares confirmam que os estabelecimentos religiosos representam mais de 50% da amostra.
 
 
 

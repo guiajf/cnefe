@@ -458,18 +458,11 @@ print(f"\nTotal de estabelecimentos mapeados: {total_estabelecimentos}")
 
 
 
-```python
-
-```
-
 **Considerações finais**
 
 No mapa interativo, selecione uma categoria e ajuste o zoom para visualizar a quantidade de estabelecimentos por tipo. Os dados tabulares confirmam que os estabelecimentos religiosos representam mais de 50% da amostra.
 
 
-```python
-
-```
 
 **Referências**
 
@@ -481,8 +474,3 @@ Python* In *Minicursos  do  XIV  Encontro  Unificado  de  Computação  do Piau�
 Pereira, R.H.M.; Gonçalves, C.N.; et. all (2019) geobr: Loads Shapefiles of Official Spatial Data Sets of Brazil. GitHub repository - https://github.com/ipeaGIT/geobr
 
 Python 3.14.0 Documentation » The Python Standard Library » Text Processing Services » re — Regular expression operations. Last updated on Oct 12, 2025 (12:31 UTC). Disponível em: https://docs.python.org/3/library/re.html#regular-expression-syntax
-
-
-```python
-
-```

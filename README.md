@@ -151,7 +151,7 @@ ax.axis("off")
      np.float64(-21.4966296))
 
    
-![](poligono_jf.png){: width="50%"}
+<img src="poligono_jf.png" width="50%">
     
 
 

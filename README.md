@@ -460,7 +460,7 @@ print(f"\nTotal de estabelecimentos mapeados: {total_estabelecimentos}")
 
 **Considerações finais**
 
-No mapa interativo ([categorias.html](https://github.com/guiajf/cnefe/blob/main/categorias.html)), selecione uma categoria e ajuste o zoom para visualizar a quantidade de estabelecimentos por tipo. Os dados tabulares confirmam que os estabelecimentos religiosos representam mais de 50% da amostra.
+Acesse o mapa interativo através do [app](https://estabelecimentos.vercel.app/), selecione uma categoria e ajuste o zoom para visualizar a quantidade de estabelecimentos por tipo. Os dados tabulares confirmam que os estabelecimentos religiosos representam mais de 50% da amostra.
 
 
 
